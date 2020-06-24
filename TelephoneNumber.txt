@@ -1,0 +1,18 @@
+NAME                     PHONE
+Catherine Morgan       011-813-1195
+ADDRESS
+429 Bridge Way
+Seattle, WA 98103 
+
+NAME                     PHONE
+Norman Dearborn        011-768-6098
+ADDRESS
+Morganthaler Industries
+12558 E. 10th Ave. Seattle, WA 
+98102                  011-796-8789
+
+NAME                   PHONE
+Thomas Morrison      011-789-2345
+ADDRESS
+866 Gage Road
+Kiarnath Falls,OR 97601  
